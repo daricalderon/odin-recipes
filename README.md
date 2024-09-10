@@ -1,1 +1,1 @@
-# odin-recipes
+Make a proper use of Git and learn the basics of it, for later on mastering it.
