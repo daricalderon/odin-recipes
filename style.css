@@ -1,0 +1,14 @@
+div.container {
+    text-align: center;
+}
+
+ul.MyUL {
+    display: inline-block;
+    text-align: center;
+}
+
+.container .link {
+    background-color: pink;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}

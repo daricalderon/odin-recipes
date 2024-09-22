@@ -1,0 +1,32 @@
+.title {
+    background-color: pink;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.container {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul.MyUL {
+    display: inline-block;
+    text-align: center;
+}
+
+ol.MyOL {
+    display: inline-block;
+    text-align: center;
+}
